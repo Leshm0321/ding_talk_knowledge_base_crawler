@@ -1,0 +1,62 @@
+# 环境变量文件
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虚拟环境
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 浏览器数据（程序生成）
+data*/
+data*/
+
+# 日志文件
+*.log
+failed_files.log
+no_right_files.log
+skipped_files.log
+download_report.txt
+
+# 备份文件
+*.bak
+*.bak.*
+
+# 临时文件
+*.tmp
+*.temp
+
+# 操作系统
+.DS_Store
+Thumbs.db
